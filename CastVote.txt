@@ -1,0 +1,5 @@
+BNP,12345,Male,Centre B
+National Party,123,Female,Centre C
+Awami League,60112233,Male,Centre A
+BNP,123456777,Male,Centre B
+Awami League,1122,Male,Centre A
